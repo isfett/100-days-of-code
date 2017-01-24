@@ -6,7 +6,9 @@
 
 **Thoughts** Worked some ours in the "Flixbus" today eve on my way back home and feeling great about this new challange and now go for my android apps, the blogs, do some funny **** with the Philip Hues and create some alexa skills.
 
-/***Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-*/
+
+### Day 2: January 24 2017, Tuesday
+
+**Today's Progress**: Startet reading my Book for developing Android 7 Apps from Rheinwerk Computing. Learned much about the version history of Android and different API Levels. Setup my android-studio including sdk tools, virtual devices and adb for my sony xperia z5 via usb.
+
+**Thoughts** Hope to get my first app fast to work and then go to some web apis
