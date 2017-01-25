@@ -20,4 +20,4 @@
 
 **Thoughts** Much Ideas for apps and services, just need to get know a little bit more.
 
-**Picture** ![ImageDay3](https://github.com/isfett/100-days-of-code/images/day3.png)
+**Picture** ![ImageDay3](https://raw.githubusercontent.com/isfett/100-days-of-code/master/images/day3.png)
