@@ -12,3 +12,12 @@
 **Today's Progress**: Startet reading my Book for developing Android 7 Apps from Rheinwerk Computing. Learned much about the version history of Android and different API Levels. Setup my android-studio including sdk tools, virtual devices and adb for my sony xperia z5 via usb.
 
 **Thoughts** Hope to get my first app fast to work and then go to some web apis
+
+
+### Day 3: January 25 2017, Wednesday
+
+**Today's Progress**: Created my "Hello Android"-Application throw my Android 7 Book. 
+
+**Thoughts** Much Ideas for apps and services, just need to get know a little bit more.
+
+**Picture** ![ImageDay3](https://github.com/isfett/100-days-of-code/images/day3.png)
